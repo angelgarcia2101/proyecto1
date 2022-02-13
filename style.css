@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+}
+#titulo{
+    background-color: black;
+    color: brown;
+    display: none;
+} 
+.div-contenedor{
+    text-align: center;
+    margin: auto;
+}
+.texto-principal{
+    font-size: 50px;
+}
